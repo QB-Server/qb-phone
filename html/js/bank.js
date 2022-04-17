@@ -6,7 +6,7 @@ $(document).on('click', '.bank-app-account', function(e){
     copyText.setSelectionRange(0, 99999);
     document.execCommand("copy");
 
-    QB.Phone.Notifications.Add("fas fa-university", "Bank", "Account number. copied!", "#badc58", 1750);
+    QB.Phone.Notifications.Add("fas fa-university", "Bank", "Account number. copied!", "#7010e6", 1750);
 });
 
 var CurrentTab = "accounts";
