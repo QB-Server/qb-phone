@@ -40,7 +40,7 @@ Config.PhoneApplications = {
         style = "padding-right: .08vh; font-size: 2.3vh";
         job = false,
         blockedjobs = {},
-        slot = 3,
+        slot = 6,
         Alerts = 0,
     },
     ["twitter"] = {
@@ -71,7 +71,7 @@ Config.PhoneApplications = {
         tooltipText = "Mail",
         job = false,
         blockedjobs = {},
-        slot = 6,
+        slot = 3,
         Alerts = 0,
     },
     ["advert"] = {
@@ -124,16 +124,16 @@ Config.PhoneApplications = {
         slot = 11,
         Alerts = 0,
     },
-    ["meos"] = {
-        app = "meos",
-        color = "#004682",
-        icon = "fas fa-ad",
-        tooltipText = "MDT",
-        job = "police",
-        blockedjobs = {},
-        slot = 13,
-        Alerts = 0,
-    },
+    -- ["meos"] = {
+    --     app = "meos",
+    --     color = "#004682",
+    --     icon = "fas fa-ad",
+    --     tooltipText = "MDT",
+    --     job = "police",
+    --     blockedjobs = {},
+    --     slot = 13,
+    --     Alerts = 0,
+    -- },
     ["lawyers"] = {
         app = "lawyers",
         color = "#26d4ce",
