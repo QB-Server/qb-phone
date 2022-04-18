@@ -46,7 +46,7 @@
 }
 
 .phone-selected-footer-tab {
-    color: #dc143c;
+    color: #6114dc;
 }
 
 .phone-contacts {
@@ -137,7 +137,7 @@
 }
 
 .phone-recent-call:hover {
-    background-color: #dc143c;
+    background-color: #6114dc;
 }
 .phone-recent-call-image {
     position: absolute;
@@ -223,7 +223,7 @@
 
 .phone-keypad-key:hover {
     color: #6e6e6e;
-    border-bottom: 2px solid #e74c3c;
+    border-bottom: 2px solid #473ce7;
 }
 
 .phone-contacts-header {
@@ -245,7 +245,7 @@
 }
 
 .phone-contacts-header > i:hover {
-    color: #dc143c;
+    color: #6114dc;
 }
 
 /* #phone-search-icon {
@@ -286,7 +286,7 @@
 }
 
 .phone-contact-list::-webkit-scrollbar-thumb {
-    background-color: #dc143c;
+    background-color: #6114dc;
 }
 
 .phone-contact-list {
@@ -345,7 +345,7 @@
 }
 
 .phone-contact-actions:hover {
-    color: #e74c3c;
+    color: #3f3ce7;
 }
 
 .phone-contact-action-buttons {
@@ -371,7 +371,7 @@
 }
 
 .phone-contact-action-buttons > i:hover {
-    color: #dc143c;
+    color: #6114dc;
 }
 .phone-add-contact {
     display: none;
@@ -523,7 +523,7 @@
 }
 
 .phone-add-contact-button:hover {
-    border-top: 2px solid #eb4d4b;
+    border-top: 2px solid #4b56eb;
 }
 
 /* EDIT CONTACT YEEY */
@@ -679,7 +679,7 @@
 }
 
 .phone-edit-contact-button:hover {
-    border-top: 2px solid #eb4d4b;
+    border-top: 2px solid #564beb;
 }
 
 /* Phone Call App */
@@ -991,7 +991,7 @@
 }
 
 .suggested-contact:hover {
-    background-color: #dc143c;
+    background-color: #6114dc;
 }
 
 .suggested-contact > i {

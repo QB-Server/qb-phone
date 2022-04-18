@@ -34,7 +34,7 @@
 }
 
 .houses-app-header-tab-selected {
-    border-bottom: .3vh solid #c23616;
+    border-bottom: .3vh solid #6114dc;
 }
 
 .houses-app-header-tab-selected > p {
@@ -86,7 +86,7 @@
 }
 
 .myhouses-house:hover {
-    background-color: #dc143c;
+    background-color: #6114dc;
 }
 
 .myhouse-house-icon {
@@ -276,7 +276,7 @@
     text-indent: 1vh;
     color: black;
     background: rgb(255 255 255 / 63%);
-    border-bottom: .3vh solid #c0392b;
+    border-bottom: .3vh solid #6114dc;
     transition: .05s linear;
 }
 
@@ -291,11 +291,11 @@
 
 #myhouse-option-keys-back {
     top: 22vh;
-    background-color: #c23616;
+    background-color: #6114dc;
 }
 
 #myhouse-option-keys-back:hover {
-    background-color: #e74c3c;
+    background-color: #6114dc;
 }
 
 .keys-container {
@@ -391,7 +391,7 @@
 }
 
 .mykeys-key:hover {
-    background-color: #dc143c;
+    background-color: #6114dc;
 }
 
 .mykeys-key-label {
